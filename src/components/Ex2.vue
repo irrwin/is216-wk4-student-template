@@ -9,7 +9,7 @@
     const myObj = ref({
         width: 200,
         height: 200,
-        src: 'assets/me.png'
+        src: '/assets/me.png'
     })
 </script>
 
