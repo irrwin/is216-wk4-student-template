@@ -57,7 +57,7 @@
     </div>
 
     <div id="part2">
-        <div :style="{color: activeColor}">
+        <div :id="id2" :style="{color: activeColor}">
             div ID : {{id2}} 
         </div>
        
